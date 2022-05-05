@@ -453,7 +453,7 @@ MonoBehaviour:
   groundDistance: 0.4
   groundMask:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 128
 --- !u!1 &95306431
 GameObject:
   m_ObjectHideFlags: 0
@@ -2345,7 +2345,7 @@ GameObject:
   - component: {fileID: 614764270}
   - component: {fileID: 614764269}
   - component: {fileID: 614764268}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: wall (2)
   m_TagString: HardEdge
   m_Icon: {fileID: 0}
@@ -5373,7 +5373,7 @@ GameObject:
   - component: {fileID: 1143393963}
   - component: {fileID: 1143393962}
   - component: {fileID: 1143393961}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: wall
   m_TagString: HardEdge
   m_Icon: {fileID: 0}
@@ -7123,7 +7123,7 @@ GameObject:
   - component: {fileID: 1521974690}
   - component: {fileID: 1521974689}
   - component: {fileID: 1521974688}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: wall (3)
   m_TagString: HardEdge
   m_Icon: {fileID: 0}
@@ -7509,7 +7509,7 @@ GameObject:
   - component: {fileID: 1608702022}
   - component: {fileID: 1608702021}
   - component: {fileID: 1608702020}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: wall (1)
   m_TagString: HardEdge
   m_Icon: {fileID: 0}
@@ -9610,7 +9610,7 @@ GameObject:
   - component: {fileID: 1932424446}
   - component: {fileID: 1932424445}
   - component: {fileID: 1932424444}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: ground
   m_TagString: HardEdge
   m_Icon: {fileID: 0}
